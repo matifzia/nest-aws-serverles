@@ -1,0 +1,14 @@
+{	
+  "server": {	
+    "port": 3000	
+  },	
+  "db": {	
+    "type": "sqlite",	
+    "database": "nest-aws",	
+    "synchronize":true
+  },
+  "jwt": {	
+    "secret": "samplesecretcode",	
+    "expireIn": 432000
+  }	
+} 	

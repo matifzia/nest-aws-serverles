@@ -1,0 +1,7 @@
+{
+  "db": {	
+    "type": "sqlite",	
+    "database": "nest-aws",	
+    "synchronize":false
+  }
+}
